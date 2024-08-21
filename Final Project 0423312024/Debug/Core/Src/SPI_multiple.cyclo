@@ -1,0 +1,3 @@
+../Core/Src/SPI_multiple.c:9:6:tiny_dly	1
+../Core/Src/SPI_multiple.c:11:6:SPI_byte	1
+../Core/Src/SPI_multiple.c:18:6:SPI_7219_SEND	2
